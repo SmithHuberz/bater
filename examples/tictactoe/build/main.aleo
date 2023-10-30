@@ -181,7 +181,7 @@ function make_move:
     ternary r17 r3.r3.c3 r93 into r102;
     cast r94 r95 r96 into r103 as Row;
     cast r97 r98 r99 into r104 as Row;
-    cast r100 r98 r99 into r105 as Row;
+    cast r100 r101 r102 into r105 as Row;
     cast r103 r104 r105 into r106 as Board;
     call check_for_win r106 1u8 into r107;
     call check_for_win r106 2u8 into r108;
