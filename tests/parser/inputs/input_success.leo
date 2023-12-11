@@ -3,15 +3,6 @@ namespace: Input
 expectation: Pass
 */
 
-[main]
-a: bool  = true;                 
-b: u8    = 2;                    
-c: field = 0;                    
-d: group = (0, 1)group;          
-e: address = aleo1qnr4dkkvkgfqph0vzc3y6z2eu975wnpz2925ntjccd5cfqxtyu8sta57j8;
-f: [u8; 32] = [0; 32];           
-g: [[u8; 2]; 3] = [[0; 2]; 3]; 
-h: (bool, bool) = (true, false); 
 
 [registers]
 r0: bool  = true;                 
