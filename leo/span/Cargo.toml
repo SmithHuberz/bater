@@ -1,15 +1,7 @@
 [package]
 name = "leo-span"
 version = "1.5.3"
-authors = [ "The Aleo Team <hello@aleo.org>" ]
-description = "Span handling in the Leo programming language"
-homepage = "https://aleo.org"
-repository = "https://github.com/AleoHQ/leo"
-keywords = [
-  "aleo",
-  "cryptography",
-  "leo",
-  "programming-language",
+ing-language",
   "zero-knowledge"
 ]
 categories = [ "cryptography::cryptocurrencies", "web-programming" ]
