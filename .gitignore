@@ -17,3 +17,8 @@ sccache*/
 *~
 \#*\#
 .\#*
+**.idea/
+*.DS_Store
+.vscode
+
+**/process.yml
