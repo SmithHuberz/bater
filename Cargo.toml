@@ -11,6 +11,19 @@ keywords = [
   "leo",
   "programming-language",
   "zero-knowledge"
+][package]
+name = "leo-lang"
+version = "1.5.3"
+authors = [ "The Aleo Team <hello@aleo.org>" ]
+description = "The Leo programming language"
+homepage = "https://aleo.org"
+repository = "https://github.com/AleoHQ/leo"
+keywords = [
+  "aleo",
+  "cryptography",
+  "leo",
+  "programming-language",
+  "zero-knowledge"
 ]
 categories = [ "cryptography::cryptocurrencies", "web-programming" ]
 include = [ "Cargo.toml", "leo", "README.md", "LICENSE.md" ]
